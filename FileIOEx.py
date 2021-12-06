@@ -1,3 +1,8 @@
+"""
+Author : Jinwoo Lee
+Date : 2021.12.05.
+"""
+
 # 파일 객체 생성 (파일모드 : 'w') : write()
 f = open("D:/새파일.txt", 'w')
 print(f)
