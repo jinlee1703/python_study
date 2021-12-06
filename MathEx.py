@@ -1,3 +1,8 @@
+"""
+Author : Jinwoo Lee
+Date : 2021.12.04.
+"""
+
 import math
 
 print(math.pi)      # 원주율 pi 값
