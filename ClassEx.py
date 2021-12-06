@@ -1,3 +1,8 @@
+"""
+Author : Jinwoo Lee
+Date : 2021.12.04.
+"""
+
 class Horse:
     def __init__(self, age, height, color, xpos, ypos):
         self.age = age
