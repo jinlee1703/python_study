@@ -56,4 +56,8 @@ print(ar1 / 2)
 # numpy 행렬곱 연산
 print("[ar9]")
 ar9 = np.dot(ar2, ar4)
+<<<<<<< HEAD
 print(ar9)
+=======
+print(ar9)
+>>>>>>> 8d074202122672ac8dba18543021c113799b15a2
