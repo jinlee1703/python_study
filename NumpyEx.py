@@ -4,7 +4,7 @@ Date : 2021.12.05.
 """
 
 import numpy as np
-# print(np.__version__)
+print(np.__version__)
 
 # 리스트를 이용하여 numpy 생성
 print("[ar1]")
