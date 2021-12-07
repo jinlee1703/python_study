@@ -2,7 +2,7 @@
 Author : Jinwoo Lee
 Date : 2021.12.04.
 """
-# 
+
 import math
 
 class Animal:
